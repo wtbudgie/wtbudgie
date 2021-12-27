@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm WTBudgie. I'm a FullStack Developer.
+## Hello There! I'm WTBudgie. I'm a FullStack Developer.
 
 - 🔭 I’m currently working on IconicBot. Its a MultiPurpose Discord Bot!
 - 🌱 I’m currently learning C# with the Unity FrameWork!
