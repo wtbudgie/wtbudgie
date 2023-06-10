@@ -4,7 +4,7 @@ I'm a programmer specializing in Javascript and Typescript. I'm passionate about
 
 ## Projects
 
-### Resolv Bot
+### [Resolv Bot]("https://resolvbot.xyz")
 Resolv Bot is the world's first staff management Discord bot. It offers features such as strikes, breaks, disciplinaries, activity management, and more!
 
 ### BudgieBot
